@@ -1,0 +1,32 @@
+body {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: aliceblue;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  h2 {
+    color:cadetblue;
+    text-align: center;
+  }
+  
+  table {
+    border: 2px solid cornflowerblue;
+    width: 650px;
+    margin: 0 auto;
+  }
+  
+  thead {
+    background-color: deepskyblue;
+  }
+  
+  td {
+    border-top: 1px solid dodgerblue;
+  }
+  
+  .syntax {
+    font-family: monospace;
+    background-color: rgb(206, 219, 224);
+  }
